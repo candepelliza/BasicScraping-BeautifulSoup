@@ -1,2 +1,2 @@
 # BasicScraping-BeautifulSoup
- Jupyter Notebooks with the very basics of scraping with BeautifulSoup library
+ This Notebook shows the basics of how to scrap a website with the BeautifulSoup for Python, starting from zero.
